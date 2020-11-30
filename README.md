@@ -1,4 +1,4 @@
-# portal-app
+# Vue 3 + Vue Router + Element Plus
 
 ## Project setup
 ```
