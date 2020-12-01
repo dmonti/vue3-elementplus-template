@@ -1,5 +1,5 @@
 import ElementPlus from 'element-plus'
-import '../element-variables.scss'
+import '@/styles/element-variables.scss'
 
 export default (app) => {
   app.use(ElementPlus)
